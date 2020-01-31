@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="979044d8ad37e8457edd10cb4d288342b4704143">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_11d710fe37da477d9a2b5320ad1d0f74729013e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_969a7e46e4abcb299bc7bd803f45b76003509642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_30b7ed63625ff72807a5420151f2574a26a9b950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_a65386b1f62c4a59e76fc823939863ec5baa4774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_8c97f93a945f30234194f4b608b669ba4d29438f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_9711fb959f022aa7b5359c6a1660f23996231713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_7f965fa362ec7752679253979722b1bc87389248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_a2846352cd5e5207a4fc772a39306320f0941702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_fadfa1683e05b91e250e7614d9ced9ed787541ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="77d4e644ebffc8d3ee0448a8b7176148be894c80">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7a7e0a09276e9fd378222c70707531601a8ebbf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_4fc30c00263e55e0249f0b8b0eefb5ac38c5221f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\fenis\AndroidStudioProjects\Compass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_13afcd8387b0f9c15b23158ce35175dec4349bdc\classes.dex" />
+    </item>
+
+</items>
